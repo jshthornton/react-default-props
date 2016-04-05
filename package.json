@@ -1,5 +1,5 @@
 {
-  "name": "react-default-props",
+  "name": "react-default-props-hoc",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jshthornton/react-default-props.git"
+    "url": "git+https://github.com/jshthornton/react-default-props-hoc.git"
   },
   "author": "Joshua Thornton",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jshthornton/react-default-props/issues"
+    "url": "https://github.com/jshthornton/react-default-props-hoc/issues"
   },
-  "homepage": "https://github.com/jshthornton/react-default-props#readme",
+  "homepage": "https://github.com/jshthornton/react-default-props-hoc#readme",
   "peerDependencies": {
     "react": "^0.14.7"
   },
